@@ -1,2 +1,2 @@
-# prjct-pandas-viz
+#Regression Project
 Sales analysis and visualization 
